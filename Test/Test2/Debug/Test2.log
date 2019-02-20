@@ -1,0 +1,14 @@
+﻿  main.cpp
+Common.lib(Shader.obj) : warning LNK4049: 已导入本地定义的符号 ___glewAttachShader
+Common.lib(Shader.obj) : warning LNK4049: 已导入本地定义的符号 ___glewCompileShader
+Common.lib(Shader.obj) : warning LNK4049: 已导入本地定义的符号 ___glewCreateProgram
+Common.lib(Shader.obj) : warning LNK4049: 已导入本地定义的符号 ___glewCreateShader
+Common.lib(Shader.obj) : warning LNK4049: 已导入本地定义的符号 ___glewDeleteShader
+Common.lib(Shader.obj) : warning LNK4049: 已导入本地定义的符号 ___glewGetProgramInfoLog
+Common.lib(Shader.obj) : warning LNK4049: 已导入本地定义的符号 ___glewGetProgramiv
+Common.lib(Shader.obj) : warning LNK4049: 已导入本地定义的符号 ___glewGetShaderInfoLog
+Common.lib(Shader.obj) : warning LNK4049: 已导入本地定义的符号 ___glewGetShaderiv
+Common.lib(Shader.obj) : warning LNK4049: 已导入本地定义的符号 ___glewLinkProgram
+Common.lib(Shader.obj) : warning LNK4049: 已导入本地定义的符号 ___glewShaderSource
+Common.lib(Shader.obj) : warning LNK4049: 已导入本地定义的符号 ___glewUseProgram
+  Test2.vcxproj -> E:\WorkSpace\OpenGL\Test\Debug\Test2.exe
